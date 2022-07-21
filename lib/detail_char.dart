@@ -10,7 +10,8 @@ class DetailChar extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return Scaffold(
-      body: Text("Hello world"),
+      
+      body: SafeArea(child: Padding(child: Column(children: []), padding: const EdgeInsets.all(10),)),
     );
   }
 }
