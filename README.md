@@ -1,4 +1,5 @@
-# dicoding_finalsubbegin
+# Dicoding Final Submission Part-2 
+Flutter Learning Path
 
 A new Flutter project.
 
