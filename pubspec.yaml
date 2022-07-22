@@ -69,3 +69,6 @@ flutter:
     - family: Tarrget
       fonts:
         - asset: fonts/Tarrget/tarrget.ttf
+    - family: RobotoReg
+      fonts:
+        - asset: fonts/Tarrget/Roboto-Regular.ttf
